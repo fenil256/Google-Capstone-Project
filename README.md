@@ -121,6 +121,10 @@ There’s an separate python file for the codes and that checked  various things
 
 # 5) Visualization
 
+heres the link of the project visualization 
+https://app.powerbi.com/groups/me/reports/edc58d0f-5f33-4f65-816a-ee27dc9b0388/ReportSection50a99f504ba575aadb62
+
+
 We have used the Power bi for the visualization.
 ![image](https://user-images.githubusercontent.com/91587336/218545243-52af87b2-ede8-4c58-bbea-b2a229d2663b.png)
 
