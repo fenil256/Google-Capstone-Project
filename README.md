@@ -79,10 +79,12 @@ PIVOT TABLE
 
 CREATED VARIOUS PIVOT TABLE AND CALCULATED MANY QUESTIONS WITH EACH FIELD 
 1)	THIS PIVOT TABLE SHOWS THE TOTAL NUMBER OF MEMBER AND CASUAL USERS OF THE JANUARY DATASET
+
 ![image](https://user-images.githubusercontent.com/91587336/218544217-2c82dbbf-109a-4d67-be1f-38dec1ddb5b6.png)
 
 
 2)	The pivot table with total number of rides each day of week 
+
 ![image](https://user-images.githubusercontent.com/91587336/218544282-a1b9a9f1-5e4b-4a05-94f2-393b50e4b774.png)
 
 
